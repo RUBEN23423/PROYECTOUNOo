@@ -1,0 +1,25 @@
+{
+  "name": "PROYECTONE",
+  "authors": [
+    "RUBEN23423 <ruben.rh618@gmail.com>"
+  ],
+  "description": "How to use bootstrap framework",
+  "main": "index.html",
+  "keywords": [
+    "alovesport"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "jquery": "^3.3.1",
+    "fontawesome": "^5.0.13"
+  }
+}
